@@ -30,8 +30,4 @@ I am a young and passionate Python coder, i have a good command in Python, HTML,
 ![](https://aleen42.github.io/badges/src/photoshop.svg)
 
 
-
-## Follow Me
-![](https://img.shields.io/github/followers/hanzla-anjum016.svg?style=social&label=Follow&maxAge=2592000)
-
 ![Hanzla's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanzla-anjum016&show_icons=true&theme=radical)
