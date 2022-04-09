@@ -6,7 +6,8 @@
 
 
 ## 🚀 About Me
-Hanzla Anjum is young and passionate Python coder, who has a good command in Python, HTML, CSS. Also, He is an enthusiastic techie. For more information, you can contact me via mail and social media.
+I am a young and passionate Python coder, i have a good command in Python, HTML, CSS. Also, I am an enthusiastic techie. For more information, you can contact me via mail and social media.
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hanzlaanjum0012.pythonanywhere.com/)
@@ -32,3 +33,5 @@ Hanzla Anjum is young and passionate Python coder, who has a good command in Pyt
 
 ## Follow Me
 ![](https://img.shields.io/github/followers/hanzla-anjum016.svg?style=social&label=Follow&maxAge=2592000)
+
+![Hanzla's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanzla-anjum016&show_icons=true&theme=radical)
