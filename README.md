@@ -6,7 +6,7 @@
 
 
 ## 🚀 About Me
-I am a young and passionate Python coder, i have a good command in Python, HTML, CSS. Also, I am an enthusiastic techie. For more information, you can contact me via mail and social media.
+I am a young and passionate Python coder, I have a good command in Python, HTML, CSS. Also, I am an enthusiastic techie. For more information, you can contact me via mail and social media. I am an AI engineer. I develope AI algorithm using python. You can check out my projects.
 
 
 ## 🔗 Links
