@@ -1,33 +1,41 @@
+# Hi, I'm Muhammad Hanzla Anjum 👋
 
-# Hi, I'm Hanzla Anjum! 👋
+Fresh graduate learning Machine Learning and AI from the ground up — practicing feature engineering, model building, and core ML concepts through hands-on notebooks, one topic at a time.
 
+- 🔭 Learning: Machine Learning, Deep Learning, and moving toward NLP / LLMs / Generative AI
+- 🌱 Practicing what I learn by building small projects and documenting them
+- 💬 Feel free to talk to me about Python, Pandas, Scikit-learn, or anything ML basics
+- 📫 Reach me at hanzlaanjum2705@gmail.com
 
-![Logo](https://res.cloudinary.com/di5ibac5c/image/upload/v1649086355/HA_Logo_luseut.png)
+---
 
+### 🛠️ Tech Stack
 
-## 🚀 About Me
-I am a young and passionate Python coder, I have a good command in Python, HTML, CSS. Also, I am an enthusiastic techie. For more information, you can contact me via mail and social media. I am an AI engineer. I develope AI algorithm using python. You can check out my projects.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
+---
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hanzlaanjum0012.pythonanywhere.com/)
+### 📊 GitHub Stats
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Hanzlaanjum1)
+![Hanzla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanzla-anjum016&show_icons=true&theme=radical)
+![Hanzla's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hanzla-anjum016&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzla-anjum016&layout=compact&theme=radical)
 
-[![twitter](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hanzla_anjum016/)
+---
 
-## 🛠 Skills
-![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+### 🌐 Connect With Me
 
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanzla-anjum-05a7212b8/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hanzlaanjum)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanzlaanjum2705@gmail.com)
 
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-![](https://aleen42.github.io/badges/src/photoshop.svg)
-
-
-![Hanzla's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanzla-anjum016&show_icons=true&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=hanzla-anjum016&label=Profile%20Views&color=blueviolet&style=flat)
