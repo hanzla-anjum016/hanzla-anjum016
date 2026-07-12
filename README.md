@@ -27,7 +27,6 @@ Fresh graduate learning Machine Learning and AI from the ground up — practicin
 
 ![Hanzla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanzla-anjum016&show_icons=true&theme=radical)
 ![Hanzla's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hanzla-anjum016&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzla-anjum016&layout=compact&theme=radical)
 
 ---
 
