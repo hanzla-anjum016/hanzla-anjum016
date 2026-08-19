@@ -110,6 +110,78 @@
   <img src="https://img.shields.io/badge/STREAMLIT%20CLOUD-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="33%" valign="top" align="center">
+
+### 🛡️ VeriSafe
+
+Deep learning-powered Django web app for **phishing URL** and **AI-generated voice detection**.
+
+<br>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-7F00FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-00BFFF?style=flat-square" />
+
+<br><br>
+
+<a href="YOUR_VERISAFE_REPO_URL">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+
+<td width="33%" valign="top" align="center">
+
+### 🎭 ReviewsLens
+
+ML-powered sentiment analyzer for **positive and negative movie review classification**.
+
+<br>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square" />
+<img src="https://img.shields.io/badge/Sentiment%20Analysis-E92063?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+<br><br>
+
+<a href="YOUR_REVIEWSLENS_REPO_URL">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+
+<td width="33%" valign="top" align="center">
+
+### 🎬 Akinema
+
+Content-based movie recommendation system that suggests **similar movies based on a user's selection**.
+
+<br>
+
+<img src="https://img.shields.io/badge/Recommendation%20System-6F42C1?style=flat-square" />
+<img src="https://img.shields.io/badge/Machine%20Learning-20BEFF?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+<br><br>
+
+<a href="YOUR_AKINEMA_REPO_URL">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
 # 📊 GitHub Stats:
 
 <div align="center">
