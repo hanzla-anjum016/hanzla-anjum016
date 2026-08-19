@@ -1,137 +1,206 @@
 <div align="center">
 
-<h1>⚡ Muhammad Hanzla Anjum</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:7F00FF,100:00F7FF&text=Muhammad%20Hanzla%20Anjum&fontColor=FFFFFF&fontSize=36&fontAlignY=35&desc=AI%20%26%20ML%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
-<h3>AI & ML Engineer</h3>
+<br>
 
-<p><b>Building intelligent systems that turn data into real-world solutions.</b></p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+intelligent+systems+from+data;Machine+Learning+%7C+Deep+Learning;Turning+ideas+into+AI-powered+solutions" />
 
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-0D1117?style=for-the-badge&logoColor=00F7FF" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/DEEP%20LEARNING-0D1117?style=for-the-badge&logoColor=FF00FF" alt="Deep Learning"/>
-<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-0D1117?style=for-the-badge&logoColor=00F7FF" alt="Artificial Intelligence"/>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=hanzla-anjum016&label=PROFILE+VIEWS&color=7F00FF&style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/hanzla-anjum016?label=FOLLOWERS&style=for-the-badge&color=00BFFF&labelColor=0D1117" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🧠 `> whoami`
 
-* 🤖 **AI & ML Engineer** focused on building intelligent systems
-* 🔬 Currently focused on **Machine Learning** and **Deep Learning**
-* 🧩 Interested in developing practical AI solutions for real-world problems
-* ⚙️ Building ML/DL models and integrating them into usable applications
-* 📚 Continuously exploring modern AI technologies and engineering practices
+```yaml
+name: Muhammad Hanzla Anjum
+role: AI & ML Engineer
+
+focus:
+  - Machine Learning
+  - Deep Learning
+
+mission: Building intelligent systems that turn data into real-world solutions.
+```
 
 ---
 
-## ⚡ Tech Arsenal
+## ⚡ `> tech_arsenal`
 
 ### 🤖 AI / Machine Learning
 
-<p>
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F7FF" alt="Python"/>
-<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF00FF" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=00F7FF" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=FF00FF" alt="Scikit-Learn"/>
-<img src="https://img.shields.io/badge/Keras-0D1117?style=for-the-badge&logo=keras&logoColor=00F7FF" alt="Keras"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/KERAS-0D1117?style=for-the-badge&logo=keras&logoColor=00F7FF" />
+
 </p>
 
-### 📊 Data, Visualization & Experimentation
+### 📊 Data • Visualization • Experimentation
 
-<p>
-<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=FF00FF" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00F7FF" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge" alt="Seaborn"/>
-<img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=FF00FF" alt="Jupyter"/>
-<img src="https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=00F7FF" alt="Kaggle"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/MATPLOTLIB-0D1117?style=for-the-badge&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/SEABORN-0D1117?style=for-the-badge&logoColor=FF00FF" />
+<img src="https://img.shields.io/badge/JUPYTER-0D1117?style=for-the-badge&logo=jupyter&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/KAGGLE-0D1117?style=for-the-badge&logo=kaggle&logoColor=FF00FF" />
+
 </p>
 
-### ⚙️ Backend & AI Applications
+### ⚙️ Backend • AI Applications
 
-<p>
-<img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=00F7FF" alt="Django"/>
-<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=FF00FF" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=00F7FF" alt="Streamlit"/>
-<img src="https://img.shields.io/badge/Pydantic-0D1117?style=for-the-badge&logo=pydantic&logoColor=FF00FF" alt="Pydantic"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=django,fastapi&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PYDANTIC-0D1117?style=for-the-badge&logo=pydantic&logoColor=FF00FF" />
+<img src="https://img.shields.io/badge/STREAMLIT-0D1117?style=for-the-badge&logo=streamlit&logoColor=00F7FF" />
+
 </p>
 
-### 🛠️ Development & Deployment
+### 🛠 Development • Deployment
 
-<p>
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00F7FF" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF00FF" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Railway-0D1117?style=for-the-badge&logo=railway&logoColor=FF00FF" alt="Railway"/>
-<img src="https://img.shields.io/badge/Streamlit%20Community%20Cloud-0D1117?style=for-the-badge&logo=streamlit&logoColor=00F7FF" alt="Streamlit Community Cloud"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/RAILWAY-0D1117?style=for-the-badge&logo=railway&logoColor=FF00FF" />
+<img src="https://img.shields.io/badge/STREAMLIT%20CLOUD-0D1117?style=for-the-badge&logo=streamlit&logoColor=00F7FF" />
+
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 `> featured_projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🛡️ VeriSafe
 
 **Deep learning-powered Django web app for phishing URL and AI-generated voice detection.**
 
-`Deep Learning` • `Django` • `Cybersecurity` • `AI`
+<br>
 
----
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-7F00FF?style=flat-square)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django)
+![AI](https://img.shields.io/badge/AI-00BFFF?style=flat-square)
+![Security](https://img.shields.io/badge/Cybersecurity-FF007F?style=flat-square)
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🎭 ReviewsLens
 
 **ML-powered sentiment analyzer for positive and negative movie review classification.**
 
-`Machine Learning` • `Sentiment Analysis` • `Movie Reviews`
+<br>
 
----
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-00BFFF?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Sentiment](https://img.shields.io/badge/Sentiment_Analysis-7F00FF?style=flat-square)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🎬 Akinema
 
 **Content-based movie recommendation system that suggests similar movies based on a user's selection.**
 
-`Machine Learning` • `Recommendation System` • `Python`
+<br>
+
+![Recommendation](https://img.shields.io/badge/Recommendation_System-FF007F?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-7F00FF?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔮 Next Project
+
+**Currently exploring new ideas in Machine Learning and Deep Learning.**
+
+<br>
+
+![Status](https://img.shields.io/badge/STATUS-BUILDING-00F7FF?style=flat-square\&labelColor=0D1117)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 `> github_stats`
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hanzla-anjum016&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Muhammad Hanzla Anjum GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hanzla-anjum016&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00FF&text_color=FFFFFF" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzla-anjum016&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzla-anjum016&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
 
-<br/><br/>
+<br><br>
 
-<img width="60%" src="https://streak-stats.demolab.com/?user=hanzla-anjum016&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="65%" src="https://streak-stats.demolab.com?user=hanzla-anjum016&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF" />
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 📈 `> contribution_activity`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hanzla-anjum016&bg_color=0D1117&color=00F7FF&line=7F00FF&point=FF00FF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🌐 `> establish_connection`
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/hanzla-anjum-05a7212b8/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF" />
 </a>
 
 <a href="mailto:hanzlaanjum0723@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FF00FF" alt="Email"/>
+<img src="https://img.shields.io/badge/GMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=FF00FF" />
 </a>
 
 <a href="https://www.kaggle.com/hanzlaanjum">
-<img src="https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=00F7FF" alt="Kaggle"/>
+<img src="https://img.shields.io/badge/KAGGLE-0D1117?style=for-the-badge&logo=kaggle&logoColor=00F7FF" />
 </a>
 
-<!--
-Portfolio ko ready karne ke baad neeche wala section uncomment kar dena.
+<!-- PORTFOLIO — uncomment when ready
 
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logoColor=FF00FF" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=FF00FF" />
 </a>
+
 -->
 
 </div>
@@ -140,8 +209,8 @@ Portfolio ko ready karne ke baad neeche wala section uncomment kar dena.
 
 <div align="center">
 
-<h3>⚡ AI • MACHINE LEARNING • DEEP LEARNING ⚡</h3>
+### `SYSTEM STATUS: LEARNING • BUILDING • IMPROVING`
 
-<p><i>Building intelligent systems that turn data into real-world solutions.</i></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00F7FF,50:7F00FF,100:0D1117" width="100%" />
 
 </div>
