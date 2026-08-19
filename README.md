@@ -6,9 +6,9 @@
 <div align="center">
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=850&lines=Hey+there%2C+I'm+Muhammad+Hanzla+Anjum;AI+%26+ML+Engineer;Building+intelligent+AI+solutions.;Focused+on+Machine+Learning+%26+Deep+Learning.;Turning+ideas+into+intelligent+systems."
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=850&lines=Hey+there%2C+I'm+Muhammad+Hanzla+Anjum;AI+%26+ML+Engineer;Building+intelligent+AI+solutions.;Focused+on+Machine+Learning+%26+Deep+Learning.;Turning+ideas+into+intelligent+systems.;Let's+connect+and+build+something+impactful."
 width="100%"
-alt="Typing SVG"
+alt="Typing Introduction"
 />
 
 </div>
