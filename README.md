@@ -4,6 +4,16 @@
 
 <div align="center">
 
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=true&width=900&height=190&lines=Hey+there%2C+I'm+Muhammad+Hanzla+Anjum;AI+%26+ML+Engineer;Building+intelligent+systems+that+turn+data+into;real-world+solutions."
+  width="100%"
+  alt="Typing SVG"
+/>
+
+</div>
+
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Muhammad+Hanzla+Anjum;AI+%26+ML+Engineer;Building+intelligent+systems+that+turn+data+into+real-world+solutions." alt="Typing SVG" />
 
 </div>
