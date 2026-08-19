@@ -106,11 +106,32 @@
   <img src="https://img.shields.io/badge/STREAMLIT%20CLOUD-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=hanzla0723&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+# 📊 GitHub Stats
 
-![](https://streak-stats.demolab.com/?user=hanzla0723&theme=radical&hide_border=false)<br/>
+<div align="center">
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hanzla0723&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=hanzla-anjum016&show_icons=true&theme=radical&hide_border=false"
+  width="520"
+  alt="GitHub Stats"
+/>
+
+<br/><br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=hanzla-anjum016&theme=radical&hide_border=false"
+  width="520"
+  alt="GitHub Streak"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzla-anjum016&layout=compact&theme=radical&hide_border=false"
+  width="520"
+  alt="Most Used Languages"
+/>
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
