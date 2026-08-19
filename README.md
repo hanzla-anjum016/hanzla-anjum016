@@ -14,8 +14,14 @@ alt="Typing Introduction"
 </div>
 
 
-# 💫 About Me
-🔭 I’m currently working on AI & Machine Learning projects, turning models into practical applications<br>📚 I’m currently learning and exploring Machine Learning & Deep Learning<br>⚡ In my free time, I experiment with AI ideas, build ML projects, and explore new technologies
+## 👨‍💻 About Me
+
+* 🇵🇰 **AI & ML Engineer from Pakistan**, passionate about building practical and intelligent solutions.
+* 🔭 Currently working on **AI-powered applications** and integrating Machine Learning models into real-world projects.
+* 🧠 My core interests include **Machine Learning, Deep Learning, Computer Vision, and applied AI**.
+* 📚 Continuously improving my skills through **hands-on projects, experimentation, and model development**.
+* ⚙️ I enjoy taking ideas from **data exploration and model training to deployment and usable applications**.
+* 🤝 Open to **collaborations, learning opportunities, and meaningful AI projects**.
 
 
 ## 🌐 Socials
