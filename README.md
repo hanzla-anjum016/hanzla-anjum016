@@ -146,7 +146,7 @@ ML-powered sentiment analyzer for<br>
 **positive and negative movie<br>
 review classification**.
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square" />
 <img src="https://img.shields.io/badge/Sentiment-E92063?style=flat-square" />
