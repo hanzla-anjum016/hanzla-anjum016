@@ -1,105 +1,94 @@
-<div align="center">
+# Muhammad Hanzla Anjum
 
-# 👾 Hi, I'm YOUR_NAME
+### AI & ML Engineer
 
-### `Code. Create. Conquer.`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Modern+Web+Apps;Learning+%26+Creating+Every+Day" />
-
-</div>
+Building intelligent systems that turn data into real-world solutions.
 
 ---
 
-## ⚡ About Me
+## About Me
 
-* 🚀 Currently working on **YOUR_PROJECT**
-* 🧠 Learning **Next.js, Node.js, TypeScript & AI**
-* 💻 Passionate about **modern web development**
-* 🎯 Goal: **Build impactful and scalable products**
-* 👾 Love futuristic UI, clean code and creative development
+I am an **AI & ML Engineer** focused on developing intelligent systems and practical machine learning applications.
 
----
+My current areas of focus are:
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,git,github,vscode" />
-
-</div>
+* Machine Learning
+* Deep Learning
+* AI-powered application development
+* Model integration and deployment
 
 ---
 
-## 📊 GitHub Stats
+## Tech Stack
 
-<div align="center">
+**Programming**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+`Python`
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+**Machine Learning & Deep Learning**
 
-</div>
+`TensorFlow` · `PyTorch` · `Scikit-Learn` · `Keras`
 
-<br>
+**Data & Experimentation**
 
-<div align="center">
+`Pandas` · `NumPy` · `Jupyter` · `Kaggle`
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+**Backend & Applications**
 
-</div>
+`Django` · `FastAPI` · `Streamlit` · `Pydantic`
 
----
+**Development & Deployment**
 
-## 🚀 Featured Projects
-
-### 🌌 Project One
-
-> Short description explaining what the project does.
-
-**Tech:** `React` `Node.js` `MongoDB`
+`Git` · `GitHub` · `VS Code` · `Railway` · `Streamlit Community Cloud`
 
 ---
 
-### ⚡ Project Two
+## Featured Projects
 
-> Short description explaining what problem the project solves.
+### VeriSafe
 
-**Tech:** `Next.js` `TypeScript`
+Deep learning-powered Django web app for phishing URL and AI-generated voice detection.
 
----
+**Focus:** Deep Learning · Django · Cybersecurity · AI
 
-### 🤖 Project Three
+### ReviewsLens
 
-> Short description explaining your project.
+ML-powered sentiment analyzer for positive and negative movie review classification.
 
-**Tech:** `Python` `AI`
+**Focus:** Machine Learning · NLP · Sentiment Analysis
 
----
+### Akinema
 
-## 🌐 Connect With Me
+Content-based movie recommendation system that suggests similar movies based on a user's selection.
 
-<div align="center">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</div>
+**Focus:** Machine Learning · Recommendation Systems · Python
 
 ---
 
-<div align="center">
+## GitHub Stats
 
-### ⚡ `CODE • BUILD • LEARN • REPEAT`
+<p align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blueviolet\&style=for-the-badge)
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hanzla-anjum016&show_icons=true&hide_border=true" />
 
-</div>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzla-anjum016&layout=compact&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+<img width="55%" src="https://streak-stats.demolab.com?user=hanzla-anjum016&hide_border=true" />
+
+</p>
+
+---
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hanzla-anjum-05a7212b8/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail\&logoColor=white)](mailto:hanzlaanjum0723@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle\&logoColor=white)](https://www.kaggle.com/hanzlaanjum)
+
+<!--
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+-->
