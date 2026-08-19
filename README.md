@@ -119,7 +119,9 @@
 
 ### 🛡️ VeriSafe
 
-Deep learning-powered Django web app for **phishing URL** and **AI-generated voice detection**.
+Deep learning-powered Django app for<br>
+**phishing URL** and **AI-generated<br>
+voice detection**.
 
 <br>
 
@@ -130,7 +132,7 @@ Deep learning-powered Django web app for **phishing URL** and **AI-generated voi
 <br><br>
 
 <a href="https://verisafe.up.railway.app/">
-  <img src="https://img.shields.io/badge/Live%20Demo-238636?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE%20DEMO-238636?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </td>
@@ -140,18 +142,20 @@ Deep learning-powered Django web app for **phishing URL** and **AI-generated voi
 
 ### 🎭 ReviewsLens
 
-ML-powered sentiment analyzer for **positive and negative movie review classification**.
+ML-powered sentiment analyzer for<br>
+**positive and negative movie<br>
+review classification**.
 
 <br>
 
 <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square" />
-<img src="https://img.shields.io/badge/Sentiment%20Analysis-E92063?style=flat-square" />
+<img src="https://img.shields.io/badge/Sentiment-E92063?style=flat-square" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
 <br><br>
 
 <a href="https://reviewslens.streamlit.app/">
-  <img src="https://img.shields.io/badge/Live%20Demo-238636?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE%20DEMO-238636?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </td>
@@ -161,25 +165,26 @@ ML-powered sentiment analyzer for **positive and negative movie review classific
 
 ### 🎬 Akinema
 
-Content-based movie recommendation system that suggests **similar movies based on a user's selection**.
+Content-based movie recommender<br>
+that suggests **similar movies based<br>
+on a user's selection**.
 
 <br>
 
-<img src="https://img.shields.io/badge/Recommendation%20System-6F42C1?style=flat-square" />
+<img src="https://img.shields.io/badge/Recommendation-6F42C1?style=flat-square" />
 <img src="https://img.shields.io/badge/Machine%20Learning-20BEFF?style=flat-square" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
 <br><br>
 
 <a href="https://akinema.streamlit.app/">
-  <img src="https://img.shields.io/badge/Live%20Demo-238636?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIVE%20DEMO-238636?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </td>
 
 </tr>
 </table>
-
 # 📊 GitHub Stats:
 
 <div align="center">
