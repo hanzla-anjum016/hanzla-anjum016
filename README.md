@@ -11,7 +11,7 @@
 
 ## 🌐 Socials
 
-<div align="center">
+<div align="left">
 
 <a href="https://www.linkedin.com/in/hanzla-anjum-05a7212b8/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -106,12 +106,12 @@
   <img src="https://img.shields.io/badge/STREAMLIT%20CLOUD-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
 
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=hanzla0723&show_icons=true&theme=radical&hide_border=false"
+  src="https://github-readme-stats.shion.dev/api?username=hanzla0723&theme=radical&hide_border=false&include_all_commits=false&count_private=false"
   width="520"
   alt="GitHub Stats"
 />
@@ -119,7 +119,7 @@
 <br/><br/>
 
 <img
-  src="https://streak-stats.demolab.com?user=hanzla0723&theme=radical&hide_border=false"
+  src="https://streak-stats.demolab.com/?user=hanzla0723&theme=radical&hide_border=false"
   width="520"
   alt="GitHub Streak"
 />
@@ -127,11 +127,9 @@
 <br/><br/>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzla0723&layout=compact&theme=radical&hide_border=false"
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=hanzla0723&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
   width="520"
-  alt="Most Used Languages"
+  alt="Top Languages"
 />
 
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
