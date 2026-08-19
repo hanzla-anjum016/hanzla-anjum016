@@ -113,78 +113,91 @@
 ## 🚀 Featured Projects
 
 <table>
-<tr>
+  <tr>
+    <td width="33%" align="center">
+      <h3>🛡️ VeriSafe</h3>
+    </td>
+    <td width="33%" align="center">
+      <h3>🎭 ReviewsLens</h3>
+    </td>
+    <td width="33%" align="center">
+      <h3>🎬 Akinema</h3>
+    </td>
+  </tr>
 
-<td width="33%" valign="top" align="center">
+  <tr>
+    <td align="center" valign="top">
+      Deep learning-powered Django app for
+      <br>
+      <b>phishing URL</b> and <b>AI-generated
+      <br>
+      voice detection.</b>
+    </td>
 
-### 🛡️ VeriSafe
+    <td align="center" valign="top">
+      ML-powered sentiment analyzer for
+      <br>
+      <b>positive and negative movie
+      <br>
+      review classification.</b>
+    </td>
 
-Deep learning-powered Django app for<br>
-**phishing URL** and **AI-generated<br>
-voice detection**.
+    <td align="center" valign="top">
+      Content-based movie recommender
+      <br>
+      that suggests <b>similar movies based
+      <br>
+      on a user's selection.</b>
+    </td>
+  </tr>
 
-<br>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/Deep%20Learning-7F00FF?style=flat-square" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI-00BFFF?style=flat-square" />
+    </td>
 
-<img src="https://img.shields.io/badge/Deep%20Learning-7F00FF?style=flat-square" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/AI-00BFFF?style=flat-square" />
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square" />
+      <img src="https://img.shields.io/badge/Sentiment-E92063?style=flat-square" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    </td>
 
-<br><br>
+    <td align="center" valign="middle">
+      <img src="https://img.shields.io/badge/Recommendation-6F42C1?style=flat-square" />
+      <img src="https://img.shields.io/badge/Machine%20Learning-20BEFF?style=flat-square" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    </td>
+  </tr>
 
-<a href="https://verisafe.up.railway.app/">
-  <img src="https://img.shields.io/badge/LIVE%20DEMO-238636?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
+  <tr>
+    <td align="center">
+      <br>
+      <a href="https://verisafe.up.railway.app/">
+        <img src="https://img.shields.io/badge/LIVE%20DEMO-238636?style=for-the-badge&logo=googlechrome&logoColor=white" />
+      </a>
+      <br><br>
+    </td>
 
-</td>
+    <td align="center">
+      <br>
+      <a href="https://reviewslens.streamlit.app/">
+        <img src="https://img.shields.io/badge/LIVE%20DEMO-238636?style=for-the-badge&logo=googlechrome&logoColor=white" />
+      </a>
+      <br><br>
+    </td>
 
-
-<td width="33%" valign="top" align="center">
-
-### 🎭 ReviewsLens
-
-ML-powered sentiment analyzer for<br>
-**positive and negative movie<br>
-review classification**.
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square" />
-<img src="https://img.shields.io/badge/Sentiment-E92063?style=flat-square" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-
-<br><br>
-
-<a href="https://reviewslens.streamlit.app/">
-  <img src="https://img.shields.io/badge/LIVE%20DEMO-238636?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-</td>
-
-
-<td width="33%" valign="top" align="center">
-
-### 🎬 Akinema
-
-Content-based movie recommender<br>
-that suggests **similar movies based<br>
-on a user's selection**.
-
-<br>
-
-<img src="https://img.shields.io/badge/Recommendation-6F42C1?style=flat-square" />
-<img src="https://img.shields.io/badge/Machine%20Learning-20BEFF?style=flat-square" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-
-<br><br>
-
-<a href="https://akinema.streamlit.app/">
-  <img src="https://img.shields.io/badge/LIVE%20DEMO-238636?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-</td>
-
-</tr>
+    <td align="center">
+      <br>
+      <a href="https://akinema.streamlit.app/">
+        <img src="https://img.shields.io/badge/LIVE%20DEMO-238636?style=for-the-badge&logo=googlechrome&logoColor=white" />
+      </a>
+      <br><br>
+    </td>
+  </tr>
 </table>
+
 # 📊 GitHub Stats:
 
 <div align="center">
