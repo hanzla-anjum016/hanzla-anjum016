@@ -129,8 +129,8 @@ Deep learning-powered Django web app for **phishing URL** and **AI-generated voi
 
 <br><br>
 
-<a href="YOUR_VERISAFE_REPO_URL">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://verisafe.up.railway.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-238636?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </td>
@@ -150,8 +150,8 @@ ML-powered sentiment analyzer for **positive and negative movie review classific
 
 <br><br>
 
-<a href="YOUR_REVIEWSLENS_REPO_URL">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://reviewslens.streamlit.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-238636?style=for-the-badge&logo=streamlit&logoColor=white" />
 </a>
 
 </td>
@@ -171,16 +171,14 @@ Content-based movie recommendation system that suggests **similar movies based o
 
 <br><br>
 
-<a href="YOUR_AKINEMA_REPO_URL">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://akinema.streamlit.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-238636?style=for-the-badge&logo=streamlit&logoColor=white" />
 </a>
 
 </td>
 
 </tr>
 </table>
-
-<br>
 
 # 📊 GitHub Stats:
 
