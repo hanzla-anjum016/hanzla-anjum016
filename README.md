@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" width="100%" alt="AI ML Banner" />
+</p>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Muhammad+Hanzla+Anjum;AI+%26+ML+Engineer;Building+intelligent+systems+that+turn+data+into+real-world+solutions." alt="Typing SVG" />
