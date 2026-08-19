@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Muhammad+Hanzla+Anjum;AI+%26+ML+Engineer;Building+intelligent+systems+that+turn+data+into+real-world+solutions." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=white&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Muhammad+Hanzla+Anjum;AI+%26+ML+Engineer;Building+intelligent+systems+that+turn+data+into+real-world+solutions." alt="Typing SVG" />
 
 </div>
 
@@ -20,11 +20,11 @@
 <a href="https://www.linkedin.com/in/hanzla-anjum-05a7212b8/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="mailto:hanzlaanjum0723@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://www.kaggle.com/hanzlaanjum">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
 </a>
