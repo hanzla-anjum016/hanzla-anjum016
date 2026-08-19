@@ -9,9 +9,6 @@
 🔭 I’m currently working on AI & Machine Learning projects, turning models into practical applications<br>📚 I’m currently learning and exploring Machine Learning & Deep Learning<br>⚡ In my free time, I experiment with AI ideas, build ML projects, and explore new technologies
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hanzla-anjum-05a7212b8/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hanzlaanjum0723@gmail.com) 
-
 ## 🌐 Socials
 
 <div align="center">
@@ -36,6 +33,7 @@
 
 -->
 </div>
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
