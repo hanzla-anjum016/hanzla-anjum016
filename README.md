@@ -14,7 +14,7 @@
 
 ## 🌐 Socials
 
-<div align="left">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/hanzla-anjum-05a7212b8/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -28,10 +28,6 @@
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
 </a>
 
-<a href="https://github.com/hanzla-anjum016">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
 <!-- Portfolio — uncomment when ready
 
 <a href="YOUR_PORTFOLIO_URL">
@@ -39,9 +35,46 @@
 </a>
 
 -->
-
 </div>
+## 🛠️ Tech Stack
 
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge\&logo=python\&logoColor=3776AB)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge\&logo=html5\&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge\&logo=css3\&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+
+### 🤖 AI & Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge\&logo=tensorflow\&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=for-the-badge\&logo=pytorch\&logoColor=EE4C2C)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge\&logo=scikitlearn\&logoColor=F7931E)
+![Keras](https://img.shields.io/badge/Keras-111827?style=for-the-badge\&logo=keras\&logoColor=D00000)
+
+### 📊 Data & Visualization
+
+![NumPy](https://img.shields.io/badge/NumPy-111827?style=for-the-badge\&logo=numpy\&logoColor=4DABCF)
+![Pandas](https://img.shields.io/badge/Pandas-111827?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-111827?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-111827?style=for-the-badge\&logo=jupyter\&logoColor=F37626)
+![Kaggle](https://img.shields.io/badge/Kaggle-111827?style=for-the-badge\&logo=kaggle\&logoColor=20BEFF)
+
+### ⚙️ Backend & AI Apps
+
+![Django](https://img.shields.io/badge/Django-111827?style=for-the-badge\&logo=django\&logoColor=44B78B)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge\&logo=fastapi\&logoColor=009688)
+![Streamlit](https://img.shields.io/badge/Streamlit-111827?style=for-the-badge\&logo=streamlit\&logoColor=FF4B4B)
+![Pydantic](https://img.shields.io/badge/Pydantic-111827?style=for-the-badge\&logo=pydantic\&logoColor=E92063)
+
+### 🧰 Tools & Deployment
+
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge)
+![Railway](https://img.shields.io/badge/Railway-111827?style=for-the-badge\&logo=railway\&logoColor=white)
+![Streamlit Cloud](https://img.shields.io/badge/Streamlit%20Cloud-111827?style=for-the-badge\&logo=streamlit\&logoColor=FF4B4B)
 
 
 # 💻 Tech Stack:
