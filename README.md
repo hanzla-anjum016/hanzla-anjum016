@@ -5,19 +5,14 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Muhammad+Hanzla+Anjum;AI+%26+ML+Engineer;Building+intelligent+systems+that+turn+data+into+real-world+solutions." alt="Typing SVG" />
-
-</div>
-
-<div align="center">
-
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hey+there%2C+I'm+Muhammad+Hanzla+Anjum;AI+%26+ML+Engineer;Building+intelligent+systems+that+turn+data+into;real-world+solutions."
-  width="100%"
-  alt="Typing SVG"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=850&lines=Hey+there%2C+I'm+Muhammad+Hanzla+Anjum;AI+%26+ML+Engineer;Building+intelligent+AI+solutions.;Focused+on+Machine+Learning+%26+Deep+Learning.;Turning+ideas+into+intelligent+systems."
+width="100%"
+alt="Typing SVG"
 />
 
 </div>
+
 
 # 💫 About Me
 🔭 I’m currently working on AI & Machine Learning projects, turning models into practical applications<br>📚 I’m currently learning and exploring Machine Learning & Deep Learning<br>⚡ In my free time, I experiment with AI ideas, build ML projects, and explore new technologies
