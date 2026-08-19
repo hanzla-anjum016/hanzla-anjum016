@@ -112,52 +112,31 @@
 
 # 📊 GitHub Stats:
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img
-        src="https://github-readme-stats.shion.dev/api?username=hanzla0723&theme=radical&hide_border=false&include_all_commits=false&count_private=false"
-        width="420"
-        height="195"
-        alt="GitHub Stats"
-      />
-    </td>
+<div align="center">
 
-    <td align="center" width="50%">
-      <img
-        src="https://streak-stats.demolab.com/?user=hanzla0723&theme=radical&hide_border=false"
-        width="420"
-        height="195"
-        alt="GitHub Streak"
-      />
-    </td>
-  </tr>
+<img src="https://github-readme-stats.shion.dev/api?username=hanzla0723&theme=radical&hide_border=false&include_all_commits=false&count_private=false"
+     width="48%"
+     height="195"
+     alt="GitHub Stats" />
+&nbsp;
+<img src="https://streak-stats.demolab.com/?user=hanzla0723&theme=radical&hide_border=false"
+     width="48%"
+     height="195"
+     alt="GitHub Streak" />
 
-  <tr>
-    <td colspan="2" align="center">
-      <br>
-      <img
-        src="https://github-readme-stats.shion.dev/api/top-langs/?username=hanzla0723&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
-        width="420"
-        height="195"
-        alt="Most Used Languages"
-      />
-    </td>
-  </tr>
-</table>
+<br/><br/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hanzla0723&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+     width="48%"
+     height="195"
+     alt="Most Used Languages" />
+
+</div>
 
 ---
 
 <div align="center">
 
 [![](https://komarev.com/ghpvc/?username=hanzla0723&icon=4&color=0)](https://visitcount.itsvg.in)
-
-</div>
-
-<img
-  src="https://github-readme-stats.shion.dev/api/top-langs/?username=hanzla0723&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
-  width="520"
-  alt="Top Languages"
-/>
 
 </div>
