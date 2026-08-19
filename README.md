@@ -124,7 +124,7 @@
      height="195"
      alt="GitHub Streak" />
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=hanzla0723&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
      width="48%"
@@ -133,10 +133,3 @@
 
 </div>
 
----
-
-<div align="center">
-
-[![](https://komarev.com/ghpvc/?username=hanzla0723&icon=4&color=0)](https://visitcount.itsvg.in)
-
-</div>
