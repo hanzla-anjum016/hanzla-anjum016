@@ -112,23 +112,47 @@
 
 # 📊 GitHub Stats:
 
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.shion.dev/api?username=hanzla0723&theme=radical&hide_border=false&include_all_commits=false&count_private=false"
+        width="420"
+        height="195"
+        alt="GitHub Stats"
+      />
+    </td>
+
+    <td align="center" width="50%">
+      <img
+        src="https://streak-stats.demolab.com/?user=hanzla0723&theme=radical&hide_border=false"
+        width="420"
+        height="195"
+        alt="GitHub Streak"
+      />
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center">
+      <br>
+      <img
+        src="https://github-readme-stats.shion.dev/api/top-langs/?username=hanzla0723&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+        width="420"
+        height="195"
+        alt="Most Used Languages"
+      />
+    </td>
+  </tr>
+</table>
+
+---
+
 <div align="center">
 
-<img
-  src="https://github-readme-stats.shion.dev/api?username=hanzla0723&theme=radical&hide_border=false&include_all_commits=false&count_private=false"
-  width="520"
-  alt="GitHub Stats"
-/>
+[![](https://komarev.com/ghpvc/?username=hanzla0723&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<br/><br/>
-
-<img
-  src="https://streak-stats.demolab.com/?user=hanzla0723&theme=radical&hide_border=false"
-  width="520"
-  alt="GitHub Streak"
-/>
-
-<br/><br/>
+</div>
 
 <img
   src="https://github-readme-stats.shion.dev/api/top-langs/?username=hanzla0723&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
