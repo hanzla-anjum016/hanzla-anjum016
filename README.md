@@ -111,7 +111,7 @@
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=hanzla-anjum016&show_icons=true&theme=radical&hide_border=false"
+  src="https://github-readme-stats.vercel.app/api?username=hanzla0723&show_icons=true&theme=radical&hide_border=false"
   width="520"
   alt="GitHub Stats"
 />
@@ -119,7 +119,7 @@
 <br/><br/>
 
 <img
-  src="https://streak-stats.demolab.com?user=hanzla-anjum016&theme=radical&hide_border=false"
+  src="https://streak-stats.demolab.com?user=hanzla0723&theme=radical&hide_border=false"
   width="520"
   alt="GitHub Streak"
 />
@@ -127,7 +127,7 @@
 <br/><br/>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzla-anjum016&layout=compact&theme=radical&hide_border=false"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzla0723&layout=compact&theme=radical&hide_border=false"
   width="520"
   alt="Most Used Languages"
 />
